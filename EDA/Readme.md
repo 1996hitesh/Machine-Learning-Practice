@@ -1,4 +1,4 @@
-This folder contains all the EDA performed on titanic dataset.
+This folder contains all the EDA performed on titanic and other dataset.
 ## Feature Engineering
 1. EDA Day-2.ipynb contains:
    * Imputing techniques for missing values on Age feature.
